@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm valeujao</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/valeujao" target="blank"><img src="https://img.shields.io/twitter/follow/valeujao?logo=twitter&style=for-the-badge" alt="valeujao" /></a> </p>
 
 - 🔭 I’m currently working on **HDN Digital**
 
@@ -17,4 +16,3 @@
 <a href="https://instagram.com/valeujao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valeujao" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeujao1&show_icons=true&locale=en&layout=compact" alt="valeujao1" /></p>
